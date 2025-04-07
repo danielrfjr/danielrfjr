@@ -5,7 +5,8 @@ Atualmente, estou me aprofundando em **Ciência de Dados** e **Estatística** ap
 
 - 📊 Estatístico em formação   
 - 🎓 Graduando em Estatística  
-- 🌐 Experiência em Otimização Combinatória  
+- 🌐 Experiência em Otimização Combinatória
+- 🚀 Explorando o mundo da Ciência de Dados com Python, SQL e R
 
 ---
 
