@@ -26,7 +26,7 @@ Atualmente, estou me aprofundando em **Ciência de Dados** e **Estatística** ap
 <div> 
   
   <a href="https://www.linkedin.com/in/danielrodriguesjr/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+    <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a> 
 </div>
 
